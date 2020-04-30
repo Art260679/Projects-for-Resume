@@ -36,4 +36,4 @@ Data fields
 
 Score CV / public 0.7489/ private   0.7369
 
-Итоговое место на private топ-40%
+Итоговое место на private топ-31%
