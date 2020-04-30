@@ -1,18 +1,18 @@
 
-Итоговый проект по курсу "Библиотеки Python для Data Science: Numpy, Matplotlib, Scikit-learn"
+Курсовой проект для курса "Python для Data Science"
+Задание:
+
+Используя данные из обучающего датасета (train.csv), построить модель для предсказания цен на недвижимость (квартиры). С помощью полученной модели, предсказать цены для квартир из тестового датасета (test.csv).
+
+Целевая переменная: Price
+
+
+Метрика качества: R2 - коэффициент детерминации (sklearn.metrics.r2_score)
+
+
 
 Ссылка на соревнование >>>>>  https://www.kaggle.com/c/realestatepriceprediction
 
-Задача в этом соревновании - предсказать цены на квартиры в датасете test.csv. 
-Есть два датасета: train.csv (содержит признаки и цены на квартиры) и test.csv (только признаки).
-
-Метрика R2
-
-File descriptions
-
-    train.csv - the training set
-    test.csv - the test set
-    sampleSubmission.csv - a sample submission file in the correct format
 
 Data fields
 
